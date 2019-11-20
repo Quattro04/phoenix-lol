@@ -18,7 +18,7 @@ module.exports = {
 			}
 		},
 		fontFamily: {
-			'trade': ['Trade Winds', 'cursive']
+			'fugaz': ['Fugaz One', 'cursive']
 		}
 	},
 	variants: {},
